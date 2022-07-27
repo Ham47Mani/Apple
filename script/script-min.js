@@ -1,0 +1,1 @@
+const conatiner=document.querySelector(".container"),mainImg=conatiner.querySelector(".content .image img");function changePhone(n){mainImg.src=n}function colors(n){conatiner.style.background=n}
